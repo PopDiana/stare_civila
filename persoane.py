@@ -118,7 +118,7 @@ class Persoana:
 
     def nastere(self, tata, prenume_copil, data):
         # self - mama copilului
-        # tata - copilului
+        # tata - tatal copilului
         # data - data nasterii
 
         copil = Persoana(tata.nume_persoana, prenume_copil, data)
